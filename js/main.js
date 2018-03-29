@@ -5,11 +5,11 @@ const btnCloseMenu = document.querySelector('.nav-close');
 const nav = document.querySelector('.nav');
 
 
-// function to open side menu
+// function to open menu
 const openNav =()=> {
     nav.style.right = "0";
 };
-// function to close side menu
+// function to close menu
 const closeNav = ()=> {
 	nav.style.right = "-1400px";
 };

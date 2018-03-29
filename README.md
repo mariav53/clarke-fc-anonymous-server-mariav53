@@ -1,2 +1,5 @@
 # clarke-fc-anonymous-server
-Base para la prueba técnica 4 de la formación continua en Adalab
+
+Prueba de maquetación de pagina responsive con un menú "desplegable".
+
+![imagen design](/guias/anonymous-server.png)
